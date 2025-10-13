@@ -1,0 +1,26 @@
+# Core scientific computing
+numpy
+pandas
+matplotlib
+scipy
+
+# Machine learning
+scikit-learn
+
+# Deep learning (TensorFlow/Keras)
+tensorflow
+keras
+
+# SINDy for dynamical systems
+pysindy
+
+# Jupyter and widgets
+ipywidgets
+notebook
+jupyter
+
+# Progress bars
+tqdm
+
+# Visualization
+seaborn
