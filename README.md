@@ -26,7 +26,7 @@ The simplest way to run these notebooks is using Google Colab. Each notebook has
 
 ### Prerequisites
 - Python 3.8 or higher installed
-- VS Code with the Python extension installed
+- [VS Code](https://code.visualstudio.com/) with the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) installed
 
 ### Installation Steps
 
