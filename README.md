@@ -25,7 +25,7 @@ The simplest way to run these notebooks is using Google Colab. Each notebook has
 ### Option 2: VS Code (Local Setup)
 
 ### Prerequisites
-- Python 3.8 or higher installed
+- [Python 3.8 or higher](https://www.python.org/downloads/) installed
 - [VS Code](https://code.visualstudio.com/) with the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) installed
 
 ### Installation Steps
