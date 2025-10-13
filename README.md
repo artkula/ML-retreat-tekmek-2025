@@ -1,3 +1,8 @@
-# Autumn Machine Learning retreat for TEKMEK 2025
+Mission:
 
-Artem/Marco please write shortly what the course is
+Familiarise with ML terminology.
+See and try simple methods.
+Calibrate expectations about the power of Machine Learning.
+Recognize the importance of domain knowledge for applying these methods.
+
+Get genuinely interested in data-driven methods and AI!
